@@ -1,4 +1,5 @@
 Test Case 1: Register User
+Conditions: Username and e-mail aren´t used already
 1. Launch browser
 2. Navigate to url 'http://automationexercise.com'
 3. Verify that home page is visible successfully
@@ -17,3 +18,13 @@ Test Case 1: Register User
 16. Verify that 'Logged in as username' is visible
 17. Click 'Delete Account' button
 18. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
+
+19. // ## Testovací prípad 1: [Názov testovacieho prípadu]
+- **Popis:** [Stručný popis toho, čo testovací prípad overuje.]
+- **Predpoklady:** [Podmienky, ktoré musia byť splnené pred spustením testu.]
+- **Kroky:** 
+  1. [Krok 1]
+  2. [Krok 2]
+  3. [Krok 3]
+- **Očakávaný výsledok:** [Čo by sa malo stať.]
+- **Skutočný výsledok:** [Čo sa skutočne stalo.]
